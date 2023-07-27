@@ -19,5 +19,5 @@
   <path d="M35 55 L65 55 L60 65 L40 65 Z" fill="white" stroke="black" stroke-width="2" />
 
   <!-- Texto "Barbearia" -->
-  <text x="50" y="85" font-family="Arial, sans-serif" font-size="10" fill="black" text-anchor="middle">Barbearia</text>
+  <text x="50" y="85" font-family="Arial, sans-serif" font-size="10" fill="black" text-anchor="middle">BARBEARIA</text>
 </svg>
