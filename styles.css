@@ -1,0 +1,14 @@
+@import
+:root{
+    --cor-de-fundo: #9949b4;
+    --cor-de-cabecalho: #FFFFFF;
+
+}
+
+body{
+
+    margin: 0px;
+    padding: 0px;
+    background-color: var(--cor-de-fundo);
+
+}
